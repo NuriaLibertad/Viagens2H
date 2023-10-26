@@ -3,6 +3,7 @@ public class Turista {
      private String nome;
     private String cpf;
 
+
     //Métodos
     public String viajar (){
         return "Viajando...";
